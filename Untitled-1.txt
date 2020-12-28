@@ -1,0 +1,22 @@
+
+1a) npm init
+1b) npm init -y
+
+2) npm install [package-name]
+2a)npm i [package-name]                                     // standartinis, veiks visada
+2b)npm i -D [package-name]                                  // kol developiname
+
+3a) npm run dev
+3a) npm run test
+
+// trys butinos komandos node'ui paleisti
+1) npm init -y
+2) npm i -D [package-name]
+3) npm run dev
+
+ctrl + ` atidaryti terminala
+
+
+Irasomi paketai:
+live-server
+jest            // npm i -D jest
