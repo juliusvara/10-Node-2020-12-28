@@ -9,7 +9,7 @@
 3a) npm run dev
 3a) npm run test
 
-// trys butinos komandos node'ui paleisti
+// trys butinos komandos node'ui paleisti, kuriant projekta
 1) npm init -y
 2) npm i -D [package-name]
 3) npm run dev
@@ -20,3 +20,17 @@ ctrl + ` atidaryti terminala
 Irasomi paketai:
 live-server
 jest            // npm i -D jest
+
+
+
+// kai atsisiuncaime projekta
+
+1) npm install
+1) npm i
+2) nom run dev
+
+//Isvalyti
+
+1) npm cache clean --force
+2) rm -rf node_modules package-lock.json
+3) npm install
