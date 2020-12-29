@@ -27,7 +27,7 @@ jest            // npm i -D jest
 
 1) npm install
 1) npm i
-2) nom run dev
+2) npm run dev
 
 //Isvalyti
 
